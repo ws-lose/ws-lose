@@ -112,7 +112,7 @@ My interests include:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/ws-lose/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ws-lose/ws-lose/output/github-contribution-grid-snake.svg"/>
 
 </div>
 

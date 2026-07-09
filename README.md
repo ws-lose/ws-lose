@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=Zainal%20Arifin%20%7CStudent&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=Zainal%20Arifin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+My+Github;Saya+sedang+belajar+tentang+bahasa+Pemrogaman;Building+Scalable+Digital+Products;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+My+Github;Web+Development;Building+Scalable+Digital+Products;Open+Source+Contributor" />
 
 <br/>
 
@@ -42,7 +42,6 @@ Saya adalah seorang mahasiswa yang sedang belajar tentang bahasa pemrogaman.
 My interests include:
 
 - Building scalable web and backend systems
-- Artificial Intelligence and Machine Learning applications
 - Open-source development
 
 ## Languages
@@ -83,7 +82,7 @@ My interests include:
 
 **Skills**
 
-`Frontend Development` `Database Design`
+`Full-Stack Development` `Frontend Development` `Database Design`
 
 ---
 # GitHub Analytics

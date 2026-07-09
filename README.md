@@ -97,7 +97,6 @@ My interests include:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws-lose&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
----
 
 # Contribution Activity
 
@@ -108,13 +107,12 @@ My interests include:
 </div>
 
 ---
----
 
 # Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ws-lose/ws-lose/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/yourusername/ws-lose/output/github-contribution-grid-snake.svg"/>
 
 </div>
 

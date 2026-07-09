@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Web%20Development-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learn-to%20Software%20Engineer-Focused-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Learn-to%20Software%20Engineer-Focused-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/> -->
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://yourportfolio.com">
+<a href="https://ws-lose.com">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:walangsangit5632@gmail.com">
@@ -45,14 +45,6 @@ My interests include:
 - Artificial Intelligence and Machine Learning applications
 - Open-source development
 
-### Open To
-
-***
-
----
-
-# Tech Stack
-
 ## Languages
 
 <div align="center">
@@ -77,49 +69,13 @@ My interests include:
 
 </div>
 
-## Cloud, DevOps & Tooling
+## DevOps & Tooling
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma&theme=dark"/>
 
 </div>
-
-# Featured Projects
-
-<details>
-<summary><b>🚀 AI-Powered Enterprise Platform</b></summary>
-
-<br>
-
-An intelligent enterprise platform designed to automate workflows using AI-driven decision systems.
-
-| Category | Details |
-|---|---|
-| Stack | Python, FastAPI, React, PostgreSQL, Docker |
-| Scale | Enterprise-ready architecture |
-| Performance | Optimized API response and asynchronous processing |
-| Security | Authentication, authorization, secure API design |
-| Impact | Improved automation and operational efficiency |
-| Repository | Available on GitHub |
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🌐 Full Stack Business Application</b></summary>
-
-<br>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🤖 Machine Learning Research Project</b></summary>
-
-<br>
 
 # Experience
 

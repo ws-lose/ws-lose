@@ -85,50 +85,7 @@ My interests include:
 
 `Frontend Development` `Database Design`
 
-# Certifications
-
-## AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-## Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Java%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-## NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Programming%20Certification-4F46E5?style=for-the-badge"/>
-
-## Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
 ---
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/ws-lose">
-<img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://geeksforgeeks.org/user/ws-lose">
-<img src="https://img.shields.io/badge/GeeksForGeeks-Profile-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://hackerrank.com/ws-lose">
-<img src="https://img.shields.io/badge/HackerRank-Profile-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://codechef.com/users/ws-lose">
-<img src="https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -140,6 +97,7 @@ My interests include:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws-lose&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
+---
 
 # Contribution Activity
 
@@ -149,6 +107,7 @@ My interests include:
 
 </div>
 
+---
 ---
 
 # Contribution Snake
